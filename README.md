@@ -4,9 +4,11 @@ This simple script for generating a barcode svg file.
 - to set/upate the number,  change the pound signs `#` in line 5
   - `number = "#######"` to the number you want to create the barcode for.
 
-## After instlling python:
+### Get python and install:
 https://www.python.org/
 
+
+### Generate barcode:
 
  ```bash
 pip install -r requirements.txt
